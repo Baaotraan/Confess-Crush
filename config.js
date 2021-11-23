@@ -1,12 +1,11 @@
 const CONFIG = {
     titleWeb: "mie lò vé",
-    introTitle: 'Huyynh Phuoong',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao móng tay tuiii lại xấu thế này`,
-    btnIntro: '^^HiHi^^',
-    title: 'Đi làm nail từ sau cái giản cách xã hội huiii neh bép ơiiii 🥰',
+    introTitle: 'He luu cậu!',
+    introDesc: `Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.`,
+    btnIntro: 'Cậu có thấy móng tay của mình xấuuu xíii quá khum dọa^^',
+    title: 'Đi làm nail từ sau cái giản cách xã hội huiii nào bép ơiiii 🥰',
     desc: 'khoái khoái, thèm chảy nước miếng, chảy nước miếng ',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'okieeee lắm nha <33',
     btnNo: 'Hết xiềngggg :((',
     question: 'Trên thế giới hơn 7 tỉ người sao lại chưa đi làm nail nữa :>> ',
     btnReply: 'Gửi cho Baaotraan <33333',
