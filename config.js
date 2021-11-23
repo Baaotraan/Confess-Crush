@@ -9,7 +9,7 @@ const CONFIG = {
     btnYes: 'Thích lắm <33',
     btnNo: 'Hết xiềngggg :((',
     question: 'Trên thế giới hơn 7 tỉ người sao lại chưa đi làm nail nữa :>> ',
-    btnReply: 'Gửi cho Baaotraan <3',
+    btnReply: 'Gửi cho Baaotraan <33333',
     reply: 'Đi thì đi mà không đi thì đi <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối cn 5h, qua đón mình đi làm nail dùm cái.',
