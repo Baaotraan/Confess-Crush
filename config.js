@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'He luu cậu!',
     introDesc: `Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.`,
     btnIntro: 'Cậu có thấy móng tay của mình xấuuu xíii quá khum dọa^^',
-    title: 'Đi làm nail từ sau cái giản cách xã hội huiii nào bép ơiiii 🥰',
+    title: 'Đi làm nail từ sau cái giản cách xã hội thuiii nào bép ơiiii 🥰',
     desc: 'khoái khoái, thèm chảy nước miếng, chảy nước miếng ',
     btnYes: 'okieeee lắm nha <33',
     btnNo: 'Hết xiềngggg :((',
