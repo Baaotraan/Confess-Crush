@@ -7,7 +7,7 @@ const CONFIG = {
     title: 'Phải chăng em đã muốn đi làm nail từ sau cái giản cách xã hội 🥰',
     desc: 'khoái khoái, thèm chảy nước miếng, chảy nước miếng ',
     btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    btnNo: 'Hết xiềngggg :((',
     question: 'Trên thế giới hơn 7 tỉ người sao lại chưa đi làm nail nữa :>> ',
     btnReply: 'Gửi cho Baaotraan <3',
     reply: 'Đi thì đi mà không đi thì đi <33333333',
