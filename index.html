@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
-<body onload="loadSound(sound/Long-Vong-Sai-Gon-Remix-Dick-ft-Charles-Cukak-Remix.mp3)">
+<body onload="loadSound()">
     <div class="wrapper">
         <!-- Preloader -->
         <div id="preloader">
@@ -46,9 +46,9 @@
     <script src="./js/main.js"></script>
 
     <script>
-        function loadSound(sound/Long-Vong-Sai-Gon-Remix-Dick-ft-Charles-Cukak-Remix.mp3) {
+        function loadSound() {
             var audio = new Audio('sound/sound.mp3');
-            audio.play(sound/Long-Vong-Sai-Gon-Remix-Dick-ft-Charles-Cukak-Remix.mp3);
+            audio.play();
         }
     </script>
 </body>
